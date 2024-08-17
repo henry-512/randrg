@@ -1,0 +1,4 @@
+progGenerator.py
+meta_parser/*.json
+meta_parser/*.txt
+old/
